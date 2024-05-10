@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anurag Kurve and I'm a Software Eningeer from Nagpur, India</h2>
+<h2 align="left">Hi 👋! My name is Anurag Kurve and I'm a Senior Software Eningeer from Nagpur, India</h2>
 
 ###
 
